@@ -1,0 +1,6 @@
+import { AppDataSource } from '../datasource';
+import Produto from '../entities/Produto';
+
+export class DeleteProdutoService {
+  async execute(descricao, tamanho, categoria, preco, qtdEstoque, ativo);
+}
